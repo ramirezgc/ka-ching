@@ -1,0 +1,51 @@
+,rank,state,full_coverage,minimum_coverage,difference,State_Name,State_ab
+0,1,Michigan,8723,5282,3441,Michigan,MI
+1,2,Rhode Island,3847,1589,2258,Rhode Island,RI
+2,3,Louisiana,3525,1329,2196,Louisiana,LA
+3,4,Kentucky,3418,1338,2079,Kentucky,KY
+4,5,Florida,3370,2565,805,Florida,FL
+5,6,Nevada,3190,1295,1895,Nevada,NV
+6,7,Colorado,3164,1075,2089,Colorado,CO
+7,8,New Jersey,3013,1182,1831,New Jersey,NJ
+8,10,New York,2752,1323,1429,New York,NY
+9,11,Arizona,2699,980,1719,Arizona,AZ
+10,12,Oklahoma,2659,742,1916,Oklahoma,OK
+11,13 (tie),Connecticut,2619,1192,1428,Connecticut,CT
+12,13 (tie),Georgia,2619,1114,1505,Georgia,GA
+13,15,Texas,2594,890,1704,Texas,TX
+14,16,Missouri,2584,874,1710,Missouri,MO
+15,17,Utah,2538,1105,1433,Utah,UT
+16,18,Montana,2525,641,1884,Montana,MT
+17,19,Delaware,2513,1316,1197,Delaware,DE
+18,20,Maryland,2431,1180,1251,Maryland,MD
+19,21,South Dakota,2338,420,1917,South Dakota,SD
+20,22,Illinois,2313,878,1435,Illinois,IL
+21,23,Minnesota,2271,983,1289,Minnesota,MN
+22,24,Arkansas,2213,677,1536,Arkansas,AR
+23,25,Mississippi,2208,749,1459,Mississippi,MS
+24,26,Oregon,2205,1136,1070,Oregon,OR
+25,27,New Mexico,2194,699,1495,New Mexico,NM
+26,28,Kansas,2190,654,1535,Kansas,KS
+27,29,West Virginia,2131,685,1447,West Virginia,WV
+28,30,Wyoming,2118,485,1632,Wyoming,WY
+29,31,Alabama,2078,736,1342,Alabama,AL
+30,32,Nebraska,2038,599,1439,Nebraska,NE
+31,33,Pennsylvania,2018,615,1403,Pennsylvania,PA
+32,34,South Carolina,2013,854,1158,South Carolina,SC
+33,35,New Hampshire,2004,643,1361,New Hampshire,NH
+34,36,North Dakota,1979,528,1451,North Dakota,ND
+35,37,Massachusetts,1866,646,1219,Massachusetts,MA
+36,38,Tennessee,1821,577,1243,Tennessee,TN
+37,39,California,1804,574,1230,California,CA
+38,40,Idaho,1777,606,1171,Idaho,ID
+39,41,Vermont,1769,552,1217,Vermont,VT
+40,42,Washington,1691,706,985,Washington,WA
+41,43,Ohio,1688,561,1127,Ohio,OH
+42,44,Wisconsin,1590,486,1104,Wisconsin,WI
+43,45,Alaska,1502,485,1016,Alaska,AK
+44,46,Virginia,1498,607,891,Virginia,VA
+45,47,Indiana,1489,498,991,Indiana,IN
+46,48,Iowa,1482,357,1124,Iowa,IA
+47,49,North Carolina,1434,542,892,North Carolina,NC
+48,50,Hawaii,1340,475,865,Hawaii,HI
+49,51,Maine,1268,489,779,Maine,ME
