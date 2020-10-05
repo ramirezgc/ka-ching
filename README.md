@@ -6,11 +6,4 @@ Tammi Bippert
 Gina Ramirez
 Tiara Green
 
-Project Scope - Cost of living vs. Income.  Look at average income and average cost of living for different geographic areas.  We will be looking at different expense metrics: home cost, property tax, insurance premiums, etc.
-
-Data Sources:
-Zillow (kaggle)
-Auto Insurance data (still looking for a source...)
-US Household Income Statistics (kaggle)
-
-
+Project Scope - Pulled cost of living data points of interest from the internet and used it to populate a SQL database.  Looked at average income, average unemployment rates, and avg cost of auto insurance by state.  SQL table leaves room for additional data points later. 
